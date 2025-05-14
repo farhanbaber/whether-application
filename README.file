@@ -1,0 +1,30 @@
+ 🌤️ Weather App UI Design
+
+A | Weather App |  UI design built using | HTML | and | CSS | This project focuses on creating a clean and responsive user interface for displaying weather information. The app is ready to be connected with a backend API to fetch real-time weather data.
+
+---
+
+📋 Features
+
+- 🌆 Clean and modern design for displaying weather data
+- 🖥️ Fully responsive layout for desktop, tablet, and mobile devices
+- ☀️ Displays weather information like temperature, humidity, and weather condition icons
+- 🎨 Minimalistic UI with clear visual hierarchy
+- 🌈 Flexible design that can be easily integrated with a weather API for dynamic data fetching
+
+---
+
+🛠️ Technologies Used
+
+- | HTML5 | – For the structure and markup
+- | CSS3 | – For styling and responsive design
+
+---
+
+ 📂 Project Structure
+
+```bash
+weather-app-ui/
+├── index.html          # Main HTML structure
+├── style.css           # Styling for the UI layout
+└── README.md           # Project documentation
